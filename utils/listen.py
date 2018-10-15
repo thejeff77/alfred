@@ -3,13 +3,15 @@ import speech_recognition as sr
 
 class Listen:
 
+    def __init__(self):
+        self._r = sr.Recognizer()
+
     def listen(self):
 
         # obtain audio from the microphone
-        r = sr.Recognizer()
         with sr.Microphone() as source:
             print("Say something!")
-            audio = r.listen(source)
+            audio = self._r.listen(source)
 
         # recognize speech using Google Speech Recognition
         try:

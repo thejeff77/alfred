@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+javadoc/
+*.java
 latestResponse.mp3
 site-packages/
 

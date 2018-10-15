@@ -1,18 +1,24 @@
 import sys
 # sys.path.insert(0, '/utils')
 from utils import listen, speak, question
+from pybeep.pybeep import PyVibrate, PyBeep
+# PyVibrate().beep()
+# PyVibrate().beepn(3)
+# PyBeep().beep()
+# PyBeep().beepn(3)
 
 speaker = speak.Speak()
 listener = listen.Listen()
 questioner = question.Question()
 
-speaker.speak('Good Morning, I am Alfred, how can I help you today?')
+speaker.speak('Hello, I am Alfred, how can I help you today?')
 
 # speaker.speak('Say something biatch')
 
 received_question = False
 
 while received_question is False:
+    PyBeep().beep()
     response = listener.listen()
 
     if questioner.is_a_question(response):
@@ -21,6 +27,7 @@ while received_question is False:
     else:
         speaker.speak('I think you said ' + response + ', is that correct?')
 
+    PyBeep().beep()
     response = listener.listen()
 
     if questioner.is_yes_response(response):
