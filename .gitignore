@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+latestResponse.mp3
+site-packages/
+
 # C extensions
 *.so
 
