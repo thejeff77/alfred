@@ -1,14 +1,14 @@
 import sys
-sys.path.insert(0, '/lib')
-from lib import listen, speak, question
+# sys.path.insert(0, '/utils')
+from utils import listen, speak, question
 
 speaker = speak.Speak()
 listener = listen.Listen()
 questioner = question.Question()
 
-# speaker.speak('Good Morning, I am Alfred, how can I help you today?')
+speaker.speak('Good Morning, I am Alfred, how can I help you today?')
 
-speaker.speak('Say something biatch')
+# speaker.speak('Say something biatch')
 
 received_question = False
 
