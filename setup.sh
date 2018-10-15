@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo gem install rake
 brew install sox
 brew install mpg321
 brew install portaudio

@@ -52,8 +52,8 @@ class StanfordDependencyHierarchy:
     Class that encodes the types of dependencies.
     """
 
-
     def __init__(self, hierarchy=stanford_dependency_hierarchy):
+
         self.hierarchy=hierarchy
 
         self.flatMap = {}

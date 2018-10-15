@@ -9,8 +9,6 @@ class StandoffTestCase(unittest.TestCase):
         self.assertEqual(TextStandoff("Testing 123", (0, 10)).overlaps(TextStandoff("Testing 123", (9, 10))), True)
         self.assertEqual(TextStandoff("Testing 123", (0, 10)).overlaps(TextStandoff("Testing 123", (10, 11))), False)
         self.assertEqual(TextStandoff("Testing 123", (10, 11)).overlaps(TextStandoff("Testing 123", (0, 10))), False)
-        
-        
 
     def testBefore(self):
         self.assertEqual(TextStandoff("Testing 123", (0, 1)).before(TextStandoff("Testing 123", (0, 1))), False)
@@ -20,8 +18,6 @@ class StandoffTestCase(unittest.TestCase):
         self.assertEqual(TextStandoff("Testing 123", (0, 10)).before(TextStandoff("Testing 123", (9, 10))), False)
         self.assertEqual(TextStandoff("Testing 123", (0, 10)).before(TextStandoff("Testing 123", (10, 11))), True)
 
-        
-
     def testContains(self):
         self.assertEqual(TextStandoff("Testing 123", (0, 1)).contains(TextStandoff("Testing 123", (0, 1))), True)
         self.assertEqual(TextStandoff("Testing 123", (0, 1)).contains(TextStandoff("Testing 123", (1, 2))), False)
@@ -29,6 +25,7 @@ class StandoffTestCase(unittest.TestCase):
         self.assertEqual(TextStandoff("Testing 123", (0, 10)).contains(TextStandoff("Testing 123", (1, 2))), True)
         self.assertEqual(TextStandoff("Testing 123", (0, 10)).contains(TextStandoff("Testing 123", (9, 10))), True)
         self.assertEqual(TextStandoff("Testing 123", (0, 10)).contains(TextStandoff("Testing 123", (10, 11))), False)
+
     def testDegreeOfOverlap(self):
         self.assertEqual(TextStandoff("Testing 123", (0, 1)).degreeOfOverlap(TextStandoff("Testing 123", (0, 1))), 1)
         self.assertEqual(TextStandoff("Testing 123", (0, 1)).degreeOfOverlap(TextStandoff("Testing 123", (1, 2))), 0)

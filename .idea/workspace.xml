@@ -2,12 +2,209 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ee02f79-81b7-44cf-ac50-8c295ce26716" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/alfred2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alfred2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/README-LINUX.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/examples/jms/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/examples/jms/testJpypePublisher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/examples/jms/testJpypeSubscriber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/examples/linux/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/examples/linux/findjvm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/examples/linux/jpype.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/examples/rmi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_array.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_arrayclass.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_class.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_classbase.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_env.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_field.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_hostenv.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_invocationhandler.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_javaenv.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_javaenv_autogen.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_jniutil.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_method.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_methodoverload.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_monitor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_object.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_objectbase.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_objecttypes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_platform_linux.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_platform_win32.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_primitivetypes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_proxy.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_reference.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_referencequeue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_type.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_typemanager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_typename.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jp_utility.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/include/jpype.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_array.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_arrayclass.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_class.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_classbase.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_env.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_field.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_invocationhandler.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_javaenv.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_javaenv_autogen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_jniutil.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_method.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_methodoverload.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_monitor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_object.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_objecttypes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_platform_linux.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_platform_win32.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_primitivetypes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_primitivetypes_autogen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_proxy.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_reference.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_referencequeue.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_typemanager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_typename.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/common/jp_voidtype.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/jp_cocoatools.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/jp_runloopstopper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/jpype_python.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/py_class.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/py_field.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/py_hostenv.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/py_method.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/py_monitor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/include/pythonenv.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/jpype_javaarray.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/jpype_javaclass.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/jpype_javanio.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/jpype_module.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/jpype_python.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/py_class.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/py_field.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/py_hostenv.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/py_method.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/py_monitor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/native/python/pythonenv.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/JClassUtil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_darwin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jcollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jexception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jobject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jpackage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jproxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_jwrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_linux.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_properties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_pykeywords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_refdaemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/_windows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/awt/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/awt/event/WindowAdapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/awt/event/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/findjvm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/nio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpype/reflect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpypex/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpypex/swing/AbstractAction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpypex/swing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/src/python/jpypex/swing/pyutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/buf_leak_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/buf_leak_test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/convtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/findjvm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/java_dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/java_sax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/jpypetest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/jpypetest/array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/jpypetest/attr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/jpypetest/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/jpypetest/exc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/jpypetest/mro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/jpypetest/numeric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/jpypetest/objectwrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/jpypetest/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/jpypetest/serial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/lists_and_maps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/python_dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/sample/big.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/stub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/test_awt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/testlucene.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1/test/testsuite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20.tgz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/README_dependencies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/arabic-onesent-buck.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/arabic-onesent-ibm-utf8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/arabic-onesent-utf8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/arabicFactored.ser.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/atbP3FactoredBuckwalter.ser.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/cedict_readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/cedict_ts.u8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/chinese-onesent-gb18030.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/chinese-onesent-unseg-gb18030.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/chinese-onesent-unseg-utf8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/chinese-onesent-utf8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/chineseFactored.ser.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/dependencies_manual.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/english-onesent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/englishFactored.ser.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/englishPCFG.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/german-onesent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/germanFactored.ser.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/lexparser-ar-rosetta.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/lexparser-gui.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/lexparser-gui.command" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/lexparser-gui.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/lexparser-zh-gb18030.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/lexparser-zh-utf8.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/lexparser.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/lexparser.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/makeSerialized.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/pos-sentences.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/lexparser-manifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/lexparser/package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/parser/package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/process/PTBLexer.flex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/src/edu/stanford/nlp/trees/international/negra/negrapenn.flex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/stanford-parser-2010-08-20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/stanford-parser-2018-10-14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/stanford-parser.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/testsent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/wsjFactored.ser.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/wsjPCFG-noTagSplit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/wsjPCFG.ser.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/wsjPCFG.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/xinhuaFactored.ser.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/xinhuaFactoredSegmenting.ser.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/stanford-parser-2010-08-20/xinhuaPCFG.ser.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serve.py" beforeDir="false" afterPath="$PROJECT_DIR$/serve.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stanford-parser-python-r22186/3rdParty/jpype/JPype-0.5.4.1.zip" beforeDir="false" afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/JPype-0.5.4.1.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stanford-parser-python-r22186/3rdParty/jpype/Rakefile" beforeDir="false" afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/jpype/Rakefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stanford-parser-python-r22186/3rdParty/stanford-parser/Rakefile" beforeDir="false" afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/Rakefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stanford-parser-python-r22186/3rdParty/stanford-parser/englishPCFG.July-2010.ser" beforeDir="false" afterPath="$PROJECT_DIR$/stanford_parser/3rdParty/stanford-parser/englishPCFG.July-2010.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stanford-parser-python-r22186/README" beforeDir="false" afterPath="$PROJECT_DIR$/stanford_parser/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stanford-parser-python-r22186/Rakefile" beforeDir="false" afterPath="$PROJECT_DIR$/stanford_parser/Rakefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stanford-parser-python-r22186/src/stanford_parser/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/stanford_parser/src/stanford_parser/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stanford-parser-python-r22186/src/stanford_parser/dependencies.py" beforeDir="false" afterPath="$PROJECT_DIR$/stanford_parser/src/stanford_parser/dependencies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stanford-parser-python-r22186/src/stanford_parser/dependencies_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/stanford_parser/src/stanford_parser/dependencies_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stanford-parser-python-r22186/src/stanford_parser/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/stanford_parser/src/stanford_parser/parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stanford-parser-python-r22186/src/stanford_parser/parser_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/stanford_parser/src/stanford_parser/parser_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stanford-parser-python-r22186/src/stanford_parser/standoff.py" beforeDir="false" afterPath="$PROJECT_DIR$/stanford_parser/src/stanford_parser/standoff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stanford-parser-python-r22186/src/stanford_parser/standoff_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/stanford_parser/src/stanford_parser/standoff_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/listen.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/listen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/question.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/question.py" afterDir="false" />
     </list>
@@ -27,38 +224,84 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="README" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="13" />
+          <entry key="py" value="20" />
+          <entry key="sh" value="1" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="13" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1653" />
+          <entry key="Python" value="1834" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1653" />
+          <entry key="py" value="1834" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utils/question.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <marker date="1539573762753" expanded="true" signature="372:373" ph="..." />
+                <marker date="1539573762753" expanded="true" signature="539:596" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/listen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+                <marker date="1539573615778" expanded="true" signature="198:207" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stanford_parser/src/stanford_parser/parser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="65" lean-forward="true" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/serve.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="30">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -67,89 +310,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/nltk/data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="674" selection-start-line="674" selection-end-line="674" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils/speak.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-                <marker date="1539551191467" expanded="true" signature="86:95" ph="..." />
-                <marker date="1539551191467" expanded="true" signature="86:127" ph="..." />
-                <marker date="1539551191467" expanded="true" signature="125:126" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils/question.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-              <folding>
-                <marker date="1539569492434" expanded="true" signature="307:308" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/Cellar/python/3.6.5_1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="1279" selection-start-line="1279" selection-end-line="1279" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils/listen.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-              <folding>
-                <marker date="1539570050060" expanded="true" signature="106:131" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stanford-parser-in-jython/test_stanford.py">
+        <entry file="file://$PROJECT_DIR$/stanford_parser/src/stanford_parser/standoff.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stanford-parser-in-jython/stanford.py">
+        <entry file="file://$PROJECT_DIR$/stanford_parser/src/stanford_parser/standoff_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-648" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stanford-parser-in-jython/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+            <state relative-caret-position="-49">
+              <caret line="10" column="117" selection-start-line="10" selection-start-column="117" selection-end-line="10" selection-end-column="117" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stanford-parser-python-r22186/src/stanford_parser/dependencies.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stanford_parser/README">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stanford_parser/src/stanford_parser/dependencies.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-704" />
+            <state relative-caret-position="380">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stanford_parser/src/stanford_parser/dependencies_test.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -161,6 +354,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TextStandoffTextStandoff</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -171,9 +369,13 @@
         <option value="$PROJECT_DIR$/lib/speak.py" />
         <option value="$PROJECT_DIR$/lib/listen.py" />
         <option value="$PROJECT_DIR$/lib/question.py" />
-        <option value="$PROJECT_DIR$/utils/question.py" />
+        <option value="$PROJECT_DIR$/stanford-parser-python-r22186/src/stanford_parser/dependencies.py" />
+        <option value="$PROJECT_DIR$/stanfordparser/src/stanford_parser/standoff_test.py" />
+        <option value="$PROJECT_DIR$/stanfordparser/src/stanford_parser/parser.py" />
+        <option value="$PROJECT_DIR$/stanford_parser/src/stanford_parser/parser.py" />
         <option value="$PROJECT_DIR$/serve.py" />
         <option value="$PROJECT_DIR$/utils/listen.py" />
+        <option value="$PROJECT_DIR$/utils/question.py" />
       </list>
     </option>
   </component>
@@ -199,63 +401,7 @@
             <path>
               <item name="alfred2" type="b2602c69:ProjectViewProjectNode" />
               <item name="alfred2" type="462c0819:PsiDirectoryNode" />
-              <item name="stanford-parser-python-r22186" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alfred2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alfred2" type="462c0819:PsiDirectoryNode" />
-              <item name="stanford-parser-python-r22186" type="462c0819:PsiDirectoryNode" />
-              <item name="3rdParty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alfred2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alfred2" type="462c0819:PsiDirectoryNode" />
-              <item name="stanford-parser-python-r22186" type="462c0819:PsiDirectoryNode" />
-              <item name="3rdParty" type="462c0819:PsiDirectoryNode" />
-              <item name="jpype" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alfred2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alfred2" type="462c0819:PsiDirectoryNode" />
-              <item name="stanford-parser-python-r22186" type="462c0819:PsiDirectoryNode" />
-              <item name="3rdParty" type="462c0819:PsiDirectoryNode" />
-              <item name="stanford-parser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alfred2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alfred2" type="462c0819:PsiDirectoryNode" />
-              <item name="stanford-parser-python-r22186" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alfred2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alfred2" type="462c0819:PsiDirectoryNode" />
-              <item name="stanford-parser-python-r22186" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stanford_parser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alfred2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alfred2" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alfred2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alfred2" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alfred2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alfred2" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alfred2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alfred2" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -359,11 +505,6 @@
           <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/utils/question.py</url>
-          <line>45</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -421,36 +562,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/question.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <marker date="1539569492434" expanded="true" signature="307:308" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/serve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/listen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding>
-            <marker date="1539570050060" expanded="true" signature="106:131" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stanford-parser-in-jython/test_stanford.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -467,9 +578,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stanford-parser-python-r22186/src/stanford_parser/dependencies.py">
+    <entry file="file://$PROJECT_DIR$/stanford_parser/src/stanford_parser/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stanford_parser/README">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stanford_parser/src/stanford_parser/dependencies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-704" />
+        <state relative-caret-position="380">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stanford_parser/src/stanford_parser/dependencies_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stanford_parser/src/stanford_parser/standoff_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="10" column="117" selection-start-line="10" selection-start-column="117" selection-end-line="10" selection-end-column="117" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stanford_parser/src/stanford_parser/standoff.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stanford_parser/src/stanford_parser/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="65" lean-forward="true" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/listen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <marker date="1539573615778" expanded="true" signature="198:207" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/question.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1539573762753" expanded="true" signature="372:373" ph="..." />
+            <marker date="1539573762753" expanded="true" signature="539:596" ph="..." />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>

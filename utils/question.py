@@ -1,4 +1,5 @@
 import nltk
+from stanford_parser.src.stanford_parser import parser as parser
 
 print('Downloading Natural Language Toolkit (NLTK), please wait...')
 
@@ -27,6 +28,9 @@ class Question:
         'yeah'
     ]
 
+    def __init__(self):
+        hello = "TODO: Setup Stanford parser here"
+
     def is_yes_response(self, text):
         if any(affirmative_string in text for affirmative_string in self._yes):
             return True
@@ -38,9 +42,10 @@ class Question:
         return False
 
     def is_a_question(self, text):
-        return True
+
         # tokens = nltk.word_tokenize(text)
         # pos_tokens = nltk.pos_tag(tokens)
         # chunked = nltk.chunk.ne_chunk(pos_tokens)
         # nltk.parse.stanford(text)
         # hello = "hello"
+        return True

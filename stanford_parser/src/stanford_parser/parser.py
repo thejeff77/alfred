@@ -1,5 +1,5 @@
 import jpype
-from standoff import TextStandoff
+from .standoff import TextStandoff
 
 class ParserError(Exception):
     def __init__(self, *args, **margs):
@@ -8,10 +8,6 @@ class ParserError(Exception):
 
 def standoffFromToken(txt, token):
     return TextStandoff(txt, (token.beginPosition(), token.endPosition()))
-
-
-                   
-           
 
 
 class Dependencies:
@@ -45,6 +41,7 @@ class Dependencies:
             self.constituentsToRelation[(gov,dep)] = relation
             
         self.checkRep()
+
 
     def tagForTokenStandoff(self, tokenStandoff):
         return self.tokensToPosTags[tokenStandoff]
@@ -116,18 +113,18 @@ class Parser:
 
         Numberer = self.package.util.Numberer
         print ("Grammar\t" +
-               `Numberer.getGlobalNumberer("states").total()` + '\t' +
-               `Numberer.getGlobalNumberer("tags").total()` + '\t' +
-               `Numberer.getGlobalNumberer("words").total()` + '\t' +
-               `self.parser.pparser.ug.numRules()` + '\t' +
-               `self.parser.pparser.bg.numRules()` + '\t' +
-               `self.parser.pparser.lex.numRules()`)
+               Numberer.getGlobalNumberer("states").total() + '\t' +
+               Numberer.getGlobalNumberer("tags").total() + '\t' +
+               Numberer.getGlobalNumberer("words").total() + '\t' +
+               self.parser.pparser.ug.numRules() + '\t' +
+               self.parser.pparser.bg.numRules() + '\t' +
+               self.parser.pparser.lex.numRules())
 
-        print "ParserPack is ", self.parser.op.tlpParams.getClass()
-        print "Lexicon is ", self.parser.pd.lex.getClass()        
-        print "Tags are: ", Numberer.getGlobalNumberer("tags")
+        print("ParserPack is ", self.parser.op.tlpParams.getClass())
+        print("Lexicon is ", self.parser.pd.lex.getClass()        )
+        print("Tags are: ", Numberer.getGlobalNumberer("tags"))
         self.parser.op.display()
-        print "Test parameters"
+        print("Test parameters")
         self.parser.op.tlpParams.display();
         self.package_lexparser.Test.display()
     def parse(self, sentence):
@@ -139,7 +136,7 @@ class Parser:
         tokens = self.documentPreprocessor.getWordsFromString(sentence)
         for token in tokens:
             if token.word() in ["down"]:
-                print "setting tag"
+                print("setting tag")
                 token.setTag("IN")
                 pass
             if token.word().lower() in ["bot"]:
@@ -157,7 +154,7 @@ class Parser:
         standoffTokens = [standoffFromToken(sentence, token)
                           for token in tokens]
         posTags = [token.tag() for token in tree.taggedYield()]
-        print " ".join(["%s/%s" % (word.text, tag) for word, tag in zip(standoffTokens, posTags)])
+        print(" ".join(["%s/%s" % (word.text, tag) for word, tag in zip(standoffTokens, posTags)]))
         #print tree.taggedYield().toString(False)
         result = self.package.trees.EnglishGrammaticalStructure(tree)
         
