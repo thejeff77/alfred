@@ -13,7 +13,7 @@ Jinja2==2.10
 JPype1==0.6.3
 MarkupSafe==1.0
 nltk==3.3
-numpy==1.15.2
+numpy==1.22.0
 PyAudio==0.2.11
 pybeep==0.0.4
 pyttsx==1.1
